@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu Chhatwal</h1>
 <h3 align="center">Hardworking Student,Coder and a Gym freak...</h3>
 
+<img align="right" alt="master_coder" width="360" src="https://github.com/himanshu1221/himanshu1221/blob/main/master_coder.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1221&label=Profile%20views&color=007bff&style=flat" alt="himanshu1221" /> </p>
 
 <p align="left"> <a href="https://twitter.com/himanshuchhatw2" target="blank"><img src="https://img.shields.io/twitter/follow/himanshuchhatw2?logo=twitter&style=for-the-badge" alt="himanshuchhatw2" /></a> </p>
