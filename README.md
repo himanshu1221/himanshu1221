@@ -35,7 +35,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu1221&show_icons=true&theme=dark&locale=en&layout=compact" alt="himanshu1221" /></p>
 
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu1221&show_icons=true&theme=dark&locale=en" alt="himanshu1221" /></p>
 
