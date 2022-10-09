@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **https://linktr.ee/himanshu_chhatwal**
 
-- ⚡ Fun fact **I dream to bee one of the biggest stock investor and trader**
+- ⚡ Fun fact **I dream to be one of the biggest stock investor and trader**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
