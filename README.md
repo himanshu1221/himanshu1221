@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Himanshu Chhatwal</h1>
 <h3 align="center">Hardworking Student,Coder and a Gym freak...</h3>
 
+[![@chhatwal's Holopin board](https://holopin.me/chhatwal)](https://holopin.io/@chhatwal)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1221&label=Profile%20views&color=007bff&style=flat" alt="himanshu1221" /> </p>
 
 <img align="right" alt="master_coder" width="360" src="https://github.com/himanshu1221/himanshu1221/blob/main/master_coder.gif">
