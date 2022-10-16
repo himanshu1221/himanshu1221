@@ -1,7 +1,7 @@
 <img src="https://github.com/himanshu1221/himanshu1221/blob/main/banner.png" alt="logo" style="width: 100%;">
 
 <h1 align="center">Hi 👋, I'm Himanshu Chhatwal</h1>
-<h3 align="center">Hardworking Student,Coder and a Gym freak...</h3>
+<h3 align="center">ʜᴀʀᴅᴡᴏʀᴋɪɴɢ ꜱᴛᴜᴅᴇɴᴛ || ᴄᴏᴅᴇʀ || ɢʏᴍ ꜰʀᴇᴀᴋ || ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ</h3>
 
 [![@chhatwal's Holopin board](https://holopin.me/chhatwal)](https://holopin.io/@chhatwal)
 
