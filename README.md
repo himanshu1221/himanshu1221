@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Chhatwal</h1>
 <h3 align="center">ʜᴀʀᴅᴡᴏʀᴋɪɴɢ ꜱᴛᴜᴅᴇɴᴛ || ᴄᴏᴅᴇʀ || ɢʏᴍ ꜰʀᴇᴀᴋ || ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ</h3>
 
-[![@chhatwal's Holopin board](https://holopin.me/chhatwal)](https://holopin.io/@chhatwal)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1221&label=Profile%20views&color=007bff&style=flat" alt="himanshu1221" /> </p>
 
 <img align="right" alt="master_coder" width="360" src="https://github.com/himanshu1221/himanshu1221/blob/main/master_coder.gif">
@@ -46,6 +43,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu1221&show_icons=true&theme=dark&locale=en" alt="himanshu1221" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu1221&theme=dark" alt="himanshu1221" /></p>
+
+
+[![@chhatwal's Holopin board](https://holopin.me/chhatwal)](https://holopin.io/@chhatwal)
 
 
 
