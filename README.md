@@ -7,7 +7,6 @@
 
 <img align="right" alt="master_coder" width="360" src="https://github.com/himanshu1221/himanshu1221/blob/main/master_coder.gif">
 
-
 <p align="left"> <a href="https://twitter.com/himanshuchhatw2" target="blank"><img src="https://img.shields.io/twitter/follow/himanshuchhatw2?logo=twitter&style=for-the-badge" alt="himanshuchhatw2" /></a> </p>
 
 - 🔭 I’m currently working on **myself 📈**
@@ -43,6 +42,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu1221&show_icons=true&theme=dark&locale=en" alt="himanshu1221" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu1221&theme=dark" alt="himanshu1221" /></p>
+
 
 
 [![@chhatwal's Holopin board](https://holopin.me/chhatwal)](https://holopin.io/@chhatwal)
