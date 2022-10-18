@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **myself 📈**
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Everything 🤓**
 
 - 👯 I’m looking forward to **make a good team to learn together.**
 
