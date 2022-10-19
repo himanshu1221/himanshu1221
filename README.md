@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Everything 🤓**
 
-- 👯 I’m looking forward to **make a good team to learn together.**
+- 👯 I’m looking forward to **make a good team to learn together 📚**
 
 - 🤝 I’m looking for help with **everything related to coding as being a newbie to this coding world**
 
