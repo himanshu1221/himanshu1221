@@ -45,7 +45,7 @@
 
 
 
-[![@chhatwal's Holopin board](https://holopin.me/chhatwal)](https://holopin.io/@chhatwal)
+<img src="https://github.com/its-harsshhh/its-harsshhh/raw/output/github-contribution-grid-snake.gif" alt="snake gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 
