@@ -1,6 +1,6 @@
 <img src="https://github.com/himanshu1221/himanshu1221/blob/main/banner.png" alt="logo" style="width: 100%;">
 
-<h1 align="center">Hi 👋, I'm Himanshu Chhatwal</h1>
+<h1 align="center">Hi 👋,<br>I'm Himanshu Chhatwal</h1>
 <h3 align="center">ʜᴀʀᴅᴡᴏʀᴋɪɴɢ ꜱᴛᴜᴅᴇɴᴛ || ᴄᴏᴅᴇʀ || ɢʏᴍ ꜰʀᴇᴀᴋ || ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1221&label=Profile%20views&color=007bff&style=flat" alt="himanshu1221" /> </p>
