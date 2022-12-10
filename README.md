@@ -43,9 +43,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu1221&theme=dark" alt="himanshu1221" /></p>
 
-
-<img align="center" alt="master_coder" width="360" src="https://camo.githubusercontent.com/63abdc3407ab5749a6fa046151ee56433f7922da540e1aa8d3b5795200dde75f/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966">
-
 [![@chhatwal's Holopin board](https://holopin.me/chhatwal)](https://holopin.io/@chhatwal)
 
 
