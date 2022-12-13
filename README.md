@@ -1,4 +1,4 @@
-<img src="https://github.com/himanshu1221/himanshu1221/blob/main/banner.png" alt="logo" style="width: 100%;">
+<img src="https://media-exp1.licdn.com/dms/image/D4D16AQE99gTQ8bJjgw/profile-displaybackgroundimage-shrink_350_1400/0/1665322075916?e=1676505600&v=beta&t=BfSSE-e6YTCaaZ4mBaRBMUEvSrMK2L9I4IGvxz-ipgw" alt="logo" style="width: 100%;">
 
 <h1 align="center">Hi 👋,<br>I'm Himanshu Chhatwal</h1>
 <h3 align="center">ʜᴀʀᴅᴡᴏʀᴋɪɴɢ ꜱᴛᴜᴅᴇɴᴛ || ᴄᴏᴅᴇʀ || ɢʏᴍ ꜰʀᴇᴀᴋ || ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ</h3>
