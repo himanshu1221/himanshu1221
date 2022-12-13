@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1221&label=Profile%20views&color=007bff&style=flat" alt="himanshu1221" /> </p>
 
-<img align="right" alt="master_coder" width="360" src="https://github.com/himanshu1221/himanshu1221/blob/main/master_coder.gif">
+<img align="right" alt="master_coder" width="360" src="https://i.imgur.com/4SdB78W.gif">
 
 <p align="left"> <a href="https://twitter.com/himanshuchhatw2" target="blank"><img src="https://img.shields.io/twitter/follow/himanshuchhatw2?logo=twitter&style=for-the-badge" alt="himanshuchhatw2" /></a> </p>
 
