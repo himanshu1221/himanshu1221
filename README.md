@@ -24,16 +24,66 @@
 - 📫 How to reach me **himanshuchhatwal9295@gmail.com**
 
 - ⚡ Fun fact **I dream to be one of the biggest stock investor and trader**
-<br>
-<br>
+
+<h3>Connect With Me</h3>
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/himanshu-c-537527215/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-twitter-URL](https://mobile.twitter.com/himanshuchhatw2)">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+### :hammer_and_wrench: Languages and Tools :
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+<table width="100%">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>JavaScript</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <td width="80px" align="center">
+            <span><strong>Canva</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu1221&show_icons=true&theme=dark&locale=en&layout=compact" alt="himanshu1221" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu1221&show_icons=true&theme=dark&locale=en" alt="himanshu1221" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu1221&theme=dark" alt="himanshu1221" /></p>
 
