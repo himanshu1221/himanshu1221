@@ -27,10 +27,10 @@
 
 <h3>Connect With Me</h3>
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/himanshu-c-537527215/)">
+  <a href="https://www.linkedin.com/in/himanshu-c-537527215">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://mobile.twitter.com/himanshuchhatw2)">
+  <a href="https://mobile.twitter.com/himanshuchhatw2">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
