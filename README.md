@@ -77,7 +77,6 @@
 <br>
 <br>
 <br>
-<br>
   <h1> 🔥 My Stats </h1>
   <br>
 <table>
