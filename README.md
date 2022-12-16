@@ -80,11 +80,19 @@
 <br>
   <h1> 🔥 My Stats </h1>
   <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu1221&show_icons=true&theme=dark&locale=en&layout=compact" alt="himanshu1221" /></p>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshu1221&show_icons=true&theme=dark&locale=en" alt="himanshu1221" /></p>
-  <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu1221&theme=dark" alt="himanshu1221" /></p>
+<table>
+<tr>
+<td width="45%">
+<a href="http://www.github.com/himanshu1221"><img src="https://github-readme-stats.vercel.app/api?username=himanshu1221&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="himanshu's GitHub stats" /></a> 
+
+</td>
+<td width="45%">
+ <a href="http://www.github.com/himanshu1221"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu1221&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ 
+</table>
+</div>
+</td>
+</tr>
 
 [![@chhatwal's Holopin board](https://holopin.me/chhatwal)](https://holopin.io/@chhatwal)
 
