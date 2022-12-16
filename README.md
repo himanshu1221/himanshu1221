@@ -28,7 +28,7 @@
 <br>
 <br>
 <br>
-<h1> 🔗 Connect With Me</h1>
+<h1 align="center"> 🔗 Connect With Me</h1>
 <div align="center">
 <a href="https://github.com/himanshu1221">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
