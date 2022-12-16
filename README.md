@@ -79,9 +79,10 @@
   <br>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu1221&show_icons=true&theme=dark&locale=en&layout=compact" alt="himanshu1221" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu1221&show_icons=true&theme=dark&locale=en" alt="himanshu1221" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu1221&theme=dark" alt="himanshu1221" /></p>
+<br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=himanshu1221&show_icons=true&theme=dark&locale=en" alt="himanshu1221" /></p>
+  <br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu1221&theme=dark" alt="himanshu1221" /></p>
 
 [![@chhatwal's Holopin board](https://holopin.me/chhatwal)](https://holopin.io/@chhatwal)
 
