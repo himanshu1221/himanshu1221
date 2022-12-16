@@ -24,9 +24,11 @@
 - 📫 How to reach me **himanshuchhatwal9295@gmail.com**
 
 - ⚡ Fun fact **I dream to be one of the biggest stock investor and trader**
-
 <br>
-<h3> 🔗Connect With Me</h3>
+<br>
+<br>
+<br>
+<h1> 🔗 Connect With Me</h1>
 <div align="center">
 <a href="https://github.com/himanshu1221">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
