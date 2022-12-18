@@ -3,11 +3,17 @@
 <h1 align="center">Hi 👋,<br>I'm Himanshu Chhatwal</h1>
 <h3 align="center">ʜᴀʀᴅᴡᴏʀᴋɪɴɢ ꜱᴛᴜᴅᴇɴᴛ || ᴄᴏᴅᴇʀ || ɢʏᴍ ꜰʀᴇᴀᴋ || ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1221&label=Profile%20views&color=007bff&style=flat" alt="himanshu1221" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1221&label=Profile%20views&color=007bff&style=for-the-badge" alt="himanshu1221" /> </p>
 
 <img align="right" alt="master_coder" width="360" src="https://i.imgur.com/4SdB78W.gif">
 
-<p align="left"> <a href="https://twitter.com/himanshuchhatw2" target="blank"><img src="https://img.shields.io/twitter/follow/himanshuchhatw2?logo=twitter&style=for-the-badge" alt="himanshuchhatw2" /></a> </p>
+<a href="https://www.twitter.com/himanshuchhatw2" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/himanshuchhatw2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+<br>
+<a href="https://www.github.com/himanshu1221" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/himanshu1221?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 - 🔭 I’m currently working on **My Personal Portfolio 📈**
 
