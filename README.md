@@ -52,6 +52,7 @@ src="https://img.shields.io/github/followers/himanshu1221?logo=github&style=for-
   <a href="https://medium.com/@himanshuchhatwal9295">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
+  <a href="https://hashnode.com/@Himanshu2314"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
   <a href="https://www.instagram.com/himanshu__2314/">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
