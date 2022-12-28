@@ -83,7 +83,6 @@ src="https://img.shields.io/github/followers/himanshu1221?logo=github&style=for-
 </div>
 <br>
 <br>
-<br>
   <h1> 🔥 My Stats </h1>
   <br>
 <table>
