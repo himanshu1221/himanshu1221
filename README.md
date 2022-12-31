@@ -112,7 +112,6 @@ Hello Everyone I Himanshu Chhatwal a second-year student and having an experienc
 
 </p> <br/> <br/>
 
-[![@chhatwal's Holopin board](https://holopin.me/chhatwal)](https://holopin.io/@chhatwal)
  
 
 
