@@ -15,7 +15,7 @@ src="https://img.shields.io/twitter/follow/himanshuchhatw2?logo=twitter&style=fo
 src="https://img.shields.io/github/followers/himanshu1221?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-- 🔭 I’m currently working on **Myself 📈**
+- 🔭 I’m currently working on an ** E-Commerce website📈**
 
 - 🌱 I’m currently learning **Everything 🤓**
 
