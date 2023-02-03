@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/himanshu1221?logo=github&style=for-
 
 - 🤝 I’m looking for help with **everything related to coding as being a newbie to this coding world**
 
-- 🚀 Connect with me [https://linktr.ee/himanshu_chhatwal](https://linktr.ee/himanshu_chhatwal)
+- 🚀 Connect with me [Everywhere](https://linkfree.eddiehub.io/himanshu1221)
 
 - 💬 Ask me about **anything related to college stuff..**
 
