@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/himanshu1221?logo=github&style=for-
 
 - 👯 I’m looking forward to **make a good team to learn together 📚**
 
-- 🤝 I’m looking for help with **everything related to coding as being a newbie to this coding world**
+- 🤝 I’m looking for help with **everything related to coding as being a newbie to this Open Source World**
 
 - 🚀 Connect with me [Everywhere](https://linkfree.eddiehub.io/himanshu1221)
 
