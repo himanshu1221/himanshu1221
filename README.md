@@ -36,6 +36,7 @@ src="https://img.shields.io/github/followers/himanshu1221?logo=github&style=for-
 <br>
 <h1 align="center"> 🔗 Connect With Me</h1>
 <div align="center">
+  <a href="mailto:himanshuchhatwal9295@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/himanshu1221">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
