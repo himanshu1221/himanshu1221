@@ -96,24 +96,21 @@ src="https://img.shields.io/github/followers/himanshu1221?logo=github&style=for-
 
 <h1 alogn="center">Blog's 📝</h1>
 <p align="left">
-<a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer...." target="_blank"<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671380877555/yMUrPb4sh.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Front-end-journey" width="250px" align="left" /></a>
+<a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer...." target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671380877555/yMUrPb4sh.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Front-end-journey" width="250px" align="left" /></a>
 <a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer....
 " target="_blank"><strong>My Journey as a frontend developer....</strong></a>
 <br/> Introduction<br>
 Hello Everyone I Himanshu Chhatwal a second-year student and having an experience of a year as being a frontend developer here I am gonna explain my journey as a frontend developer this is gonna be very beginner friendly and anyone can start with these steps for free of cost so do read the upcoming points that i am gonna share with you!.....
-  <br>
-  <br>
-  <br>
-
+<hr>
 <p align="left">
 <a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My experience as a particpant at KWoC22
-"target="_blank"><img src="https://blogsbyhimanshu.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1673104982474%2Fdf21ae23-277a-4ee3-9342-3a88f1efa453.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="KWoC22" width="250px" align="left" /></a>
+"target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1673104982474/df21ae23-277a-4ee3-9342-3a88f1efa453.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="KWoC22" width="250px" align="left" /></a>
 <a href="https://blogsbyhimanshu.hashnode.dev/kwoc22-blog" title="My experience as a particpant at KWoC22
 " target="_blank"><strong>My experience as a particpant at KWoC22
 </strong></a><br/> What is Kharagpur Winter Of Code 2022(KWoC22) ? <br>
 Kharagpur Winter of Code is a 5-week long online program for students who are new to open source software development. The program not only helps students to get involved in open source , but also prepares them for many open source summer programs; Google Summer of Code being one of them.
 <br>
-  <br>
+<br>
    <img alt="NETLIFY" src="https://holopin.me/chhatwal"/>
 
 
