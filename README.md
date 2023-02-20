@@ -86,28 +86,19 @@ src="https://img.shields.io/github/followers/himanshu1221?logo=github&style=for-
 <br>
   <h1> 🔥 My Stats </h1>
   <br>
-<table>
-<tr>
-<td width="45%">
-<a href="http://www.github.com/himanshu1221"><img src="https://github-readme-stats.vercel.app/api?username=himanshu1221&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="himanshu's GitHub stats" /></a> 
-</td>
-<td width="45%">
+<td width="100%">
+ 
  <a href="http://www.github.com/himanshu1221"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu1221&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/himanshu1221"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu1221&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" /></a> 
 </td>
-  </table>
- <table align-"center">
-</tr>
-<tr>
-<td width="45%">
-<a href="http://www.github.com/himanshu1221"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu1221&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" /></a> 
-</tr>
-</table>
+
+
 
 <h1 alogn="center">Blog's 📝</h1>
 <p align="left">
-<a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer...."><img src="https://blogsbyhimanshu.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1671380877555%2FyMUrPb4sh.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="Front-end-journey" width="250px" align="left" /></a>
+<a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer...." target="_blank"<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671380877555/yMUrPb4sh.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Front-end-journey" width="250px" align="left" /></a>
 <a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer....
-"><strong>My Journey as a frontend developer....</strong></a>
+" target="_blank"><strong>My Journey as a frontend developer....</strong></a>
 <br/> Introduction<br>
 Hello Everyone I Himanshu Chhatwal a second-year student and having an experience of a year as being a frontend developer here I am gonna explain my journey as a frontend developer this is gonna be very beginner friendly and anyone can start with these steps for free of cost so do read the upcoming points that i am gonna share with you!.....
   <br>
@@ -115,15 +106,12 @@ Hello Everyone I Himanshu Chhatwal a second-year student and having an experienc
   <br>
 
 <p align="left">
+<a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My experience as a particpant at KWoC22
+"target="_blank"><img src="https://blogsbyhimanshu.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1673104982474%2Fdf21ae23-277a-4ee3-9342-3a88f1efa453.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="KWoC22" width="250px" align="left" /></a>
 <a href="https://blogsbyhimanshu.hashnode.dev/kwoc22-blog" title="My experience as a particpant at KWoC22
-"><img src="https://blogsbyhimanshu.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1673104982474%2Fdf21ae23-277a-4ee3-9342-3a88f1efa453.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="KWoC22" width="250px" align="left" /></a>
-<a href="https://blogsbyhimanshu.hashnode.dev/kwoc22-blog" title="My experience as a particpant at KWoC22
-"><strong>My experience as a particpant at KWoC22
-</strong></a>
-<br/> What is Kharagpur Winter Of Code 2022(KWoC22) ? <br>
+" target="_blank"><strong>My experience as a particpant at KWoC22
+</strong></a><br/> What is Kharagpur Winter Of Code 2022(KWoC22) ? <br>
 Kharagpur Winter of Code is a 5-week long online program for students who are new to open source software development. The program not only helps students to get involved in open source , but also prepares them for many open source summer programs; Google Summer of Code being one of them.
- 
-
 <br>
   <br>
    <img alt="NETLIFY" src="https://holopin.me/chhatwal"/>
