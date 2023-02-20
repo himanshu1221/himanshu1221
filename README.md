@@ -7,9 +7,9 @@
 
 <img align="right" alt="master_coder" width="360" src="https://i.imgur.com/4SdB78W.gif">
 
-<a href="https://www.twitter.com/himanshuchhatw2" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/himanshuchhatw2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+
+<a href="https://twitter.com/himanshuchhatw2">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<br>
 <br>
 <a href="https://www.github.com/himanshu1221" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/himanshu1221?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
