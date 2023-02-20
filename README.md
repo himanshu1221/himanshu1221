@@ -96,7 +96,7 @@ src="https://img.shields.io/github/followers/himanshu1221?logo=github&style=for-
 
 <h1 alogn="center">Blog's 📝</h1>
 <p align="left">
-<a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer...." target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671380877555/yMUrPb4sh.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Front-end-journey" width="250px" align="left" /></a>
+<a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer...." target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671380877555/yMUrPb4sh.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Front-end-journey" width="220px" align="left" /></a>
 <a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer....
 " target="_blank"><strong>My Journey as a frontend developer....</strong></a>
 <br/> Introduction<br>
