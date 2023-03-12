@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋,<br>I'm Himanshu Chhatwal</h1>
 <h3 align="center">ʜᴀʀᴅᴡᴏʀᴋɪɴɢ ꜱᴛᴜᴅᴇɴᴛ || ᴄᴏᴅᴇʀ || ɢʏᴍ ꜰʀᴇᴀᴋ || ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1221&label=Profile%20views&color=007bff&style=for-the-badge" alt="himanshu1221" /> </p>
+
 
 <img align="right" alt="master_coder" width="360" src="https://i.imgur.com/4SdB78W.gif">
 
