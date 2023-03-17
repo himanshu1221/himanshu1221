@@ -15,15 +15,15 @@
 
 - 🔭 I’m currently working on an **Myself 📈**
 
-- 🌱 I’m currently learning **Everything 🤓**
+- 🌱 I’m currently learning **GoLang 🤓**
 
 - 👯 I’m looking forward to **make a good team to learn together 📚**
 
-- 🤝 I’m looking for help with **everything related to coding as being a newbie to this Open Source World**
+- 🤝 I’m looking for help with **in learning GoLang**
 
 - 🚀 Connect with me [Everywhere](https://linkfree.eddiehub.io/himanshu1221)
 
-- 💬 Ask me about **anything related to college stuff..**
+- 💬 Ask me about **anything related to college stuff & Web Dev**
 
 - 📫 How to reach me **himanshuchhatwal9295@gmail.com**
 
