@@ -94,11 +94,10 @@
 
 <h1 alogn="center">Blog's 📝</h1>
 <p align="left">
-<a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer...." target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671380877555/yMUrPb4sh.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Front-end-journey" width="220px" align="left" /></a>
-<a href="https://blogsbyhimanshu.hashnode.dev/my-journey-as-a-frontend-developer" title="My Journey as a frontend developer....
-" target="_blank"><strong>My Journey as a frontend developer....</strong></a>
-<br/> Introduction<br>
-Hello Everyone I Himanshu Chhatwal a second-year student and having an experience of a year as being a frontend developer here I am gonna explain my journey as a frontend developer this is gonna be very beginner friendly and anyone can start with these.....
+<a href="https://blogsbyhimanshu.hashnode.dev/breaking-into-the-world-of-open-source" title="Breaking Into The World Of Open Source 💥" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678086375931/86038cf9-643c-4ff5-8443-2f73ba1df9cc.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Breaking Into The World Of Open Source 💥" width="220px" align="left" /></a>
+<a href="https://blogsbyhimanshu.hashnode.dev/breaking-into-the-world-of-open-source" title="Breaking Into The World Of Open Source 💥" target="_blank"><strong>Breaking Into The World Of Open Source 💥</strong></a>
+<br/>What is Open Source❓<br>
+Open source is something that enables us to become a member of Global-Communities where we can learn from people around the world and give back to the community....
 <hr>
 <p align="left">
 <a href="https://blogsbyhimanshu.hashnode.dev/kwoc22-blog" title="My experience as a particpant at KWoC22
