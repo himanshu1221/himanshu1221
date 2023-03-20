@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on an **Myself 📈**
+- 🔭 I’m currently working on **Learning full stack development 📈**
 
 - 🌱 I’m currently learning **GoLang 🤓**
 
