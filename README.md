@@ -1,7 +1,7 @@
 <img src="https://github.com/himanshu1221/himanshu1221/blob/main/3.png" alt="logo" style="width: 100%;">
 
 <h1 align="center">Hi 👋,<br>I'm Himanshu Chhatwal</h1>
-<h3 align="center">ʜᴀʀᴅᴡᴏʀᴋɪɴɢ ꜱᴛᴜᴅᴇɴᴛ || ᴄᴏᴅᴇʀ || ɢʏᴍ ꜰʀᴇᴀᴋ || ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ</h3>
+<h3 align="center">Tech Blogs || Open Source || Collaboration || Web Development</h3>
 
 
 
