@@ -13,9 +13,9 @@
 
 
 
-- 🔭 I’m currently working on **Learning full stack development 📈**
+- 🔭 I’m currently workingbuilding projects on **MERN + Go 📈**
 
-- 🌱 I’m currently learning **GoLang 🤓**
+- 🌱 I’m currently learning **MERN + GoLang 🤓**
 
 - 👯 I’m looking forward to **make a good team to learn together 📚**
 
