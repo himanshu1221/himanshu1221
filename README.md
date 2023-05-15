@@ -19,7 +19,7 @@
 
 - 👯 I’m looking forward to **make a good team to learn together 📚**
 
-- 🤝 I’m looking for help with **in learning GoLang**
+- 🤝 I’m looking for help with **in building GoLang Project**
 
 - 🚀 Connect with me [Everywhere](https://linkfree.eddiehub.io/himanshu1221)
 
