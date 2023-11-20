@@ -1,7 +1,14 @@
 ![](https://github.com/himanshu1221/himanshu1221/blob/main/Untitled%20design_magicstudio_9ww40jm32ht.png)
 
 
-<p align="center">Hey Everyone 🌻, I am Himanshu Chhatwal </p>
+<p align="center">
+  Hey Everyone 🌻, I am Himanshu Chhatwal
+</p>
+
+<p align="center">
+  I ❤️ communities  
+</p>
+
 
 <p align="center">
 
