@@ -1,4 +1,4 @@
-![](https://github.com/himanshu1221/himanshu1221/blob/main/3.png)
+![](https://github.com/himanshu1221/himanshu1221/blob/main/Untitled%20design_magicstudio_9ww40jm32ht.png)
 
 
 <p align="center">Hey Everyone 🌻, I am Himanshu Chhatwal </p>
