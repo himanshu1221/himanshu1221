@@ -18,7 +18,7 @@
   - ✉️  Contact me at [himanshuchhatwal03@gmail.com](mailto:himanshuchhatwal03@gmail.com)
   - 🚀 Sharing my public journey on [Twitter](https://twitter.com/himanshuchhatw2)
   - 🔗 Connect with me on my other socials through [Linktree](https://linktr.ee/himanshu_chhatwal)
-  - 🧠 Learning DevOps!
+  - 🧠 Learning Cloud Tech and AI!
   - 🫱🏻‍🫲🏻 Up for collaborations
 
 </p>
